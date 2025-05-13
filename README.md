@@ -1,6 +1,6 @@
 # 📩 Newsletter do Blog
 
-Este é um template de e-mail em HTML puro com conteúdo fictício de um blog de tecnologia. O objetivo é demonstrar uma estrutura de newsletter com layout responsivo básico, estilização inline (para compatibilidade com clientes de e-mail) e botões chamativos de "Leia mais".
+Este é um template de e-mail em HTML puro com conteúdo fictício de um blog de tecnologia. O objetivo é demonstrar uma estrutura de newsletter com layout responsivo básico, estilização inline (para compatibilidade com clientes de e-mail).
 
 ## 🗂 Estrutura de arquivos
 
