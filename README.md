@@ -32,8 +32,4 @@ Editar
 - O botão "Leia mais" foi estilizado para parecer um botão real, sem depender de CSS externo.
 - O layout segue boas práticas para renderização em clientes como Gmail, Outlook e webmail.
 
-## ✉️ Exemplo
 
-![Preview](https://servidor-estatico-one-nu.vercel.app/IA_nobugs.jpg)
-
----
