@@ -7,10 +7,6 @@ Este é um template de e-mail em HTML puro com conteúdo fictício de um blog de
 newsletter/
 ├── index.html # Arquivo principal da newsletter
 
-markdown
-Copiar
-Editar
-
 ## 💡 Como visualizar
 
 1. Clone o repositório ou baixe o arquivo `index.html`.
